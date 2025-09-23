@@ -1,5 +1,6 @@
 
 #GitHub practice
+<<<<<<< HEAD
 Hello
 |file | contents |
 > | --| -- |
@@ -20,3 +21,5 @@ Hello
 > | philosophy.md | overview of how the code is organized for docs |
 > | example.md | myst notebook example of using the code |
 > | scratch.ipynb | jupyter notebook from dev |
+=======
+>>>>>>> 1610e0ba3a4674ddbfd9398ebac626e84ae14777
